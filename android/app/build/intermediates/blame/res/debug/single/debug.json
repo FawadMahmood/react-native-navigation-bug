@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_notification_icon.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/drawable-xxhdpi/notification_icon.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_notification_icon.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/drawable-xhdpi/notification_icon.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_notification_icon.xml.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/drawable-anydpi-v24/notification_icon.xml"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/drawable-hdpi_notification_icon.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/drawable-hdpi/notification_icon.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/drawable-mdpi_notification_icon.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/drawable-mdpi/notification_icon.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/fawadmahmood/Documents/RnnBug/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/fawadmahmood/Documents/RnnBug/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]
